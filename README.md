@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Avindi Obeyesekere</h1>
+<h1 align="center">Hi 👋, I'm Avindi Obeyesekere</h1>![Talk to us](https://github.com/AvindiObeyesekere/AvindiObeyesekere/assets/146757083/102972fd-1567-4684-be12-c795d2d0f2a1)
+
 <h3 align="center">A passionate Undergraduate fullstack developer at SLIIT</h3>
 
 - 🌱 I’m currently learning **Flutter,React,Nodejs**
