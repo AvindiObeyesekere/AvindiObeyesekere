@@ -1,3 +1,7 @@
+
+<img src="https://github.com/AvindiObeyesekere/AvindiObeyesekere/assets/146757083/e4ecbe09-16ee-4e36-a7db-77cea8ca3b55">
+
+
 <h1 align="center">Hi 👋, I'm Avindi Obeyesekere</h1>
 
 <h3 align="center">A passionate Undergraduate fullstack developer at SLIIT</h3>
