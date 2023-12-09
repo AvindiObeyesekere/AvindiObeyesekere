@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Avindi Obeyesekere</h1>
 
-<h3 align="center">A passionate Undergraduate fullstack developer at SLIIT</h3>
+<h3 align="center">A passionate Undergraduate software developer at SLIIT</h3>
 
 - 🌱 I’m currently learning **Flutter,React,Nodejs**
 
