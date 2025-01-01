@@ -1,5 +1,5 @@
 
-<img src="https://github.com/AvindiObeyesekere/AvindiObeyesekere/assets/146757083/e4ecbe09-16ee-4e36-a7db-77cea8ca3b55" width="850">
+![codegithub](https://github.com/user-attachments/assets/a9a90853-6609-4056-9633-fa5d37b4d8db)
 
 
 <h1 align="center">Hi 👋, I'm Avindi Obeyesekere</h1>
