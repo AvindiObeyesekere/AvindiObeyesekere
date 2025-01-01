@@ -6,8 +6,8 @@
 
 <h3 align="center">A passionate Undergraduate software developer at SLIIT</h3>
 
-- 🌱 I’m currently learning **Flutter,React,Nodejs**
-
+- 🌱 I’m currently learning **.NET,C# & Microservices & AWS :))))**
+-Most Liked -Flutter Development 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="avindi-dewanmini-obeyesekere-01450a235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avindi dewanmini obeyesekere" height="30" width="40" /></a>
