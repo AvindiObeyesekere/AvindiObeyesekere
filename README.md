@@ -98,9 +98,17 @@
   </a>
 </p>
 <h3 align="left">Cloud Technologies:</h3>
-<div align="center">
-    <!-- Replace with your cloud tech skills -->
-    <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-    <!-- Add more badges similarly -->
-</div>
+<p align="left">
+  <a href="https://www.mongodb.com/cloud" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB Cloud" width="50" height="50" style="margin-right:20px;"/>
+  </a>
+  <a href="https://firebase.google.com/products/firestore" target="_blank" rel="noreferrer">
+    <img src="https://www.gstatic.com/devrel-devsite/prod/vbd51f64b70a27c8b6e626ac9b865ed0c1b4b353c9cafe569655c4ee3c6e0636e/firebase/images/touchicon-180.png" alt="Firestore" width="50" height="50" style="margin-right:20px;"/>
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50" style="margin-right:20px;"/>
+  </a>
+</p>
+
+
 
