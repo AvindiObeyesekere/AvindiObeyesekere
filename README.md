@@ -97,6 +97,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg" alt="apache" width="40" height="40"/>
   </a>
 </p>
+<h3 align="left">Cloud Technologies:</h3>
 <div align="center">
     <!-- Replace with your cloud tech skills -->
     <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
