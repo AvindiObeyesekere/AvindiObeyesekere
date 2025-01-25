@@ -18,9 +18,10 @@
 ### Certifications
 <p align="left">
   <a href="https://www.linkedin.com/learning/certificates/148bf675f2a7917ba13e908e537c880e5fece89b744d849a563d8ec9cbc21f10?trk=share_certificate" target="blank">
-    <img align="center" src="https://img.icons8.com/fluency/48/000000/gold-badge.png" alt="Gold Badge" height="40" width="40" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Gold_medal_icon.svg" alt="Gold Badge" height="40" width="40" />
   </a>
 </p>
+
 
 
 
