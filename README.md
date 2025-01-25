@@ -15,12 +15,13 @@
   </a>
 </p>
 
-### Certifications
+<h3>Certifications</h3>
 <p align="left">
   <a href="https://www.linkedin.com/learning/certificates/148bf675f2a7917ba13e908e537c880e5fece89b744d849a563d8ec9cbc21f10?trk=share_certificate" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/LinkedIn_Learning_Logo.png" alt="LinkedIn Learning" width="120" />
+    <img src="https://www.vectorlogo.zone/logos/linkedin_learning/linkedin_learning-icon.svg" alt="LinkedIn Learning" width="40" height="40" />
   </a>
 </p>
+
 
 
 
