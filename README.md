@@ -10,8 +10,14 @@
 -Most Liked -Flutter Development 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="avindi-dewanmini-obeyesekere-01450a235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avindi dewanmini obeyesekere" height="30" width="40" /></a>
+  <a href="avindi-dewanmini-obeyesekere-01450a235" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avindi dewanmini obeyesekere" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/learning/certificates/148bf675f2a7917ba13e908e537c880e5fece89b744d849a563d8ec9cbc21f10?trk=share_certificate" target="blank">
+    <img align="center" src="https://img.icons8.com/color/48/000000/certificate.png" alt="Certification" height="30" width="40" />
+  </a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
