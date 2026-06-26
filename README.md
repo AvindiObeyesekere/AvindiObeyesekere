@@ -6,7 +6,7 @@
 
 <h3 align="center">A passionate Undergraduate software developer at SLIIT</h3>
 
-- 🌱 I’m currently learning **.NET,C# & Microservices & AWS :))))**
+- 🌱 I’m currently learning **Go,C# & AZCA :))))**
 -Most Liked -Flutter Development 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
